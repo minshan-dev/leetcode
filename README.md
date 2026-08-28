@@ -14,5 +14,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/minshan-dev/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0709-to-lower-case](https://github.com/minshan-dev/leetcode/tree/main/0709-to-lower-case/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/minshan-dev/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/minshan-dev/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
