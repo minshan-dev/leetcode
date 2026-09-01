@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/minshan-dev/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/minshan-dev/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
