@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/minshan-dev/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/minshan-dev/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0058-length-of-last-word](https://github.com/minshan-dev/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/minshan-dev/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/minshan-dev/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0709-to-lower-case](https://github.com/minshan-dev/leetcode/tree/main/0709-to-lower-case/) | Easy |
