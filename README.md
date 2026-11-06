@@ -57,4 +57,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/minshan-dev/leetcode/tree/main/0035-search-insert-position/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0577-employee-bonus](https://github.com/minshan-dev/leetcode/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
