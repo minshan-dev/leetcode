@@ -60,5 +60,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0550-game-play-analysis-iv](https://github.com/minshan-dev/leetcode/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0577-employee-bonus](https://github.com/minshan-dev/leetcode/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
